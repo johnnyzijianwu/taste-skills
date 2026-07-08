@@ -10,9 +10,9 @@ InspiredHub is a platform where people encounter great works — paintings, text
 
 ## Before / After
 
-![Before and After: AI writing quality with vs without InspiredHub Taste Skills](https://files.manuscdn.com/user_upload_by_module/session_file/310519663095235434/KCrBGpvCIKjHKXGa.png)
+![taste-modern applied to an AI product landing page — visual transformation](https://files.manuscdn.com/user_upload_by_module/session_file/310519663095235434/rZsELFHxYsgVTrfO.png)
 
-*Without a Taste Skill, agents default to generic, statistically average output. With one, they write from a specific aesthetic position — grounded in how a master actually saw the world.*
+*The same AI-generated landing page — without a Taste Skill (top) and with `taste-modern` applied (bottom). The skill doesn't just change the aesthetic: it changes the entire visual logic of the output.*
 
 ---
 
@@ -27,7 +27,6 @@ openclaw skills install @johnnyzijianwu/taste-baroque
 openclaw skills install @johnnyzijianwu/taste-impressionism
 openclaw skills install @johnnyzijianwu/taste-romanticism
 openclaw skills install @johnnyzijianwu/taste-modern
-openclaw skills install @johnnyzijianwu/taste-van-gogh
 openclaw skills install @johnnyzijianwu/taste-monet
 openclaw skills install @johnnyzijianwu/taste-kandinsky
 openclaw skills install @johnnyzijianwu/taste-hokusai
@@ -71,11 +70,17 @@ Each SKILL.md contains:
 
 Skills are grounded in primary works, not secondary commentary. The Van Gogh skill draws from 843 paintings and letters. The Dante skill draws from the Commedia itself.
 
+The difference shows up in writing too:
+
+![Before and After: AI writing quality with vs without InspiredHub Taste Skills](https://files.manuscdn.com/user_upload_by_module/session_file/310519663095235434/KCrBGpvCIKjHKXGa.png)
+
+*Without a Taste Skill, agents default to generic, statistically average output. With one, they write from a specific aesthetic position — grounded in how a master actually saw the world.*
+
 ---
 
 ## The Data Behind It
 
-These skills are the public-facing layer of a larger project. InspiredHub has been collecting authentic human aesthetic behavior since March 2026:
+These skills are the public-facing layer of a larger project. InspiredHub has been collecting authentic human aesthetic behavior since March 2025:
 
 - **411 works** across painting, literature, and music
 - **1,408 annotated behavioral events** (dwell time, return visits, written responses, creative output)
