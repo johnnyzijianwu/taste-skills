@@ -80,7 +80,7 @@ The difference shows up in writing too:
 
 ## The Data Behind It
 
-These skills are the public-facing layer of a larger project. InspiredHub has been collecting authentic human aesthetic behavior since March 2025:
+These skills are the public-facing layer of a larger project. InspiredHub has been collecting authentic human aesthetic behavior since March 2026:
 
 - **411 works** across painting, literature, and music
 - **1,408 annotated behavioral events** (dwell time, return visits, written responses, creative output)
